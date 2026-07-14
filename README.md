@@ -28,6 +28,4 @@ Built a 5-page interactive dashboard (Executive Summary, Revenue Analysis, Consu
 ### Stack
 Python (Pandas, EDA) • MySQL (schema design, query optimization) • Power BI (DAX, star-schema modeling)
 
----
-
-Want me to also add a folder structure section (`/eda`, `/sql`, `/dashboard`, `/data`) so it maps to how your repo is actually organized?
+### Dataset not included due to data sensitivity — available on request
